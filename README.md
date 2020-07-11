@@ -8,7 +8,7 @@
 This is Utkarsh Agnihotri 😃.I belong to Kashipur, Uttarakhand and currently pursuing my B.Tech CS from Invertis University, Bareilly 🏫.I am TechGeek, Writer and I like to code things.
 ## Hello World!! 🤔
 - 💬 Open Source Enthusiast
-- 🎯 Portfolio Site: [agniutkarsh.com](https://https://www.agniutkarsh.com/)
+- 🎯 Portfolio Site: [agniutkarsh.com](https://www.agniutkarsh.com/)
 - 🔭 I’m currently exploring Technical Writing and Web-Development, looking for opportunities to contribute to open source
 - 📫 How to reach me: E-mail: agni.utk27@gmail.com
 - ⚡ Fun fact: A pizza that has radius "z" and height "a" has volume 'Pi × z × z × a'. 
