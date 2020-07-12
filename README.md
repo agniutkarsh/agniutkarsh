@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞y 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://banner2.cleanpng.com/20180716/tza/kisspng-github-computer-icons-clip-art-gits-5b4d20ab1f4131.145288281531781291128.jpg' width='200"'>
 
 [![Twitter Badge](https://img.shields.io/badge/-@agniutkarsh-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/agniutkarsh)](https://twitter.com/agniutkarsh) [![Linkedin Badge](https://img.shields.io/badge/-agniutkarsh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agniutkarsh/)](https://www.linkedin.com/in/agniutkarsh/) [![Medium Badge](https://img.shields.io/badge/-@agniutkarsh-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@agniutkarsh/)](https://medium.com/agniutkarsh)
 [![Gmail Badge](https://img.shields.io/badge/-agni.utk27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agni.utk27@gmail.com)](mailto:agni.utk27@gmail.com)
