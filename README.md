@@ -2,7 +2,7 @@
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  <img align="left" width=10% src='http://dev-prashant.co/img/banner/home-right.png'> <img align="right" width=40 src='http://dev-prashant.co/img/is.png'>
+  
 This is Utkarsh Agnihotri 😃 I have experience in building scalable and efficient Web Applications,  currently pursuing B.Tech CS from Invertis University, Bareilly 🏫.I am  a TechGeek, Writer and I like to code things.
 ## Hello World!! 🤔
 - 💬 Open Source Enthusiast
@@ -14,6 +14,9 @@ This is Utkarsh Agnihotri 😃 I have experience in building scalable and effici
 
 ### How to Reach me?
 <a>[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/918941970875)</a> <a>[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/agniutkarsh)</a> <a>[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/agniutkarsh)</a>  <a>[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/agniutkarsh)</a> <a>[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@agniutkarsh)</a> <a>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/agniutkarsh/)</a>
+<p>
+  <img align="left" width=10% src='http://dev-prashant.co/img/banner/home-right.png'> <img align="right" width=40 src='http://dev-prashant.co/img/is.png'>
+</p>
 
 ## 👯 Internships
 * Tata Steel
