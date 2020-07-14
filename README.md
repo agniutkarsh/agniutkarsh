@@ -1,7 +1,7 @@
 <h2> 𝐇𝐞y 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
   
 This is Utkarsh Agnihotri 😃 I have experience in building scalable and efficient Web Applications,  currently pursuing B.Tech CS from Invertis University, Bareilly 🏫.I am  a TechGeek, Writer and I like to code things.
 ## Hello World!! 🤔
