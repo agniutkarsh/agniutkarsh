@@ -7,8 +7,8 @@ This is Utkarsh Agnihotri 😃 I have experience in building scalable and effici
 ## Hello World!! 🤔
 - 💬 Open Source Enthusiast
 - 🎯 Portfolio Site: [agniutkarsh.com](https://www.agniutkarsh.com/)
-- 🔭 Currently exploring Technical Writing and Web-Development 
-- 💬 Looking for opportunities to contribute to Open Source
+- 🔭 Currently exploring Technical Writing and Web-Dev.
+- 💬 Actively contributing to Open Source
 - 📫 E-mail: agni.utk27@gmail.com
 - ⚡ Fun fact: A pizza that has radius "z" and height "a" has volume 'Pi × z × z × a'. 
 
