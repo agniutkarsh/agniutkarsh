@@ -13,6 +13,10 @@ This is Utkarsh Agnihotri 😃 currently pursuing B.Tech CS from Invertis Univer
 - 💬 Looking for opportunities to contribute to Open Source
 - 📫 How to reach me: E-mail: agni.utk27@gmail.com
 - ⚡ Fun fact: A pizza that has radius "z" and height "a" has volume 'Pi × z × z × a'. 
+
+### How to Reach me?
+<a>[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/918941970875)</a> <a>[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/agniutkarsh)</a> <a>[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/agniutkarsh)</a>  <a>[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/agniutkarsh)</a> <a>[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@agniutkarsh)</a> <a>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/agniutkarsh/)</a>
+
 ## 👯 Internships
 * Tata Steel
 * IIM Kashipur
