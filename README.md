@@ -4,7 +4,7 @@
 This is Utkarsh Agnihotri 😃 I have experience in building scalable and efficient Web Applications,  currently pursuing B.Tech CS from Invertis University, Bareilly 🏫.I am  a TechGeek, Writer and I like to code things.
 
 ## Hello World!! 🤔
-- 💬 Open Source Enthusiast
+- 💬 Open Source Enthusiast :octocat:
 - 🎯 Portfolio Site: [agniutkarsh.com](https://www.agniutkarsh.com/)
 - 🔭 Currently exploring Technical Writing and Web-Dev.
 - 💬 Actively contributing to Open Source
@@ -23,6 +23,14 @@ This is Utkarsh Agnihotri 😃 I have experience in building scalable and effici
 * JP Morgan Chase
 * Livingstone College (USA)
 * Reliance Jio
+
+### :open_book: :books: Area of Expertise :closed_book: :green_book:
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 ## ⚡ Technologies
 I can talk about
 - Technical Content Writing/Documentation
