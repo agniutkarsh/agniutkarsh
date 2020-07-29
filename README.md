@@ -35,8 +35,8 @@ This is Utkarsh Agnihotri 😃 I have experience in building scalable and effici
 
 ## ⚡ Technologies
 I can talk about
-- Technical Content Writing/Documentation
-- Front-end Web Development(UI/UX) using **HTML, Javascript, CSS, Bootstrap**
-- Solving Data Structures and Algorithm questions in **C++ and Python**
+- Technical Content Writing/Documentation.
+- Front-end Web Development(UI/UX) using **HTML, Javascript, CSS, Bootstrap**.
+- Solving Data Structures and Algorithm questions in **C++ and Python**.
 
 [![HitCount](http://hits.dwyl.com/Zenix27/{project}.svg)](http://hits.dwyl.com/Zenix27/{project})
