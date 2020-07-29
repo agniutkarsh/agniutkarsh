@@ -17,7 +17,7 @@ This is Utkarsh Agnihotri 😃 I have experience in building scalable and effici
 
 
 ## 👯 Internships
-* Tata Steel
+* TATA STEEL
 * IIM Kashipur
 * Auto Expo 2020
 * Macmetric
