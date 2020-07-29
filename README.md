@@ -19,7 +19,7 @@ This is Utkarsh Agnihotri 😃 I have experience in building scalable and effici
 ## 👯 Internships
 * TATA STEEL
 * IIM Kashipur
-* Auto Expo 2020
+* AUTO EXPO 2020
 * Macmetric
 * WindowsFish
 * JP Morgan Chase
