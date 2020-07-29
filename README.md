@@ -4,7 +4,7 @@
 This is Utkarsh Agnihotri 😃 I have experience in building scalable and efficient Web Applications,  currently pursuing B.Tech CS from Invertis University, Bareilly 🏫.I am  a TechGeek, Writer and I like to code things.
 
 
-## Hello World!! 🤔
+## Hello World! 🤔
 
 - 💬 Open Source Enthusiast :octocat:
 - 🎯 Portfolio Site: [agniutkarsh.com](https://www.agniutkarsh.com/)
