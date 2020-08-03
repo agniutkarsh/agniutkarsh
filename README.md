@@ -20,8 +20,6 @@ This is Utkarsh Agnihotri 😃 I have experience in building scalable and effici
 * TATA STEEL
 * IIM Kashipur
 * AUTO EXPO 2020
-* Macmetric
-* WindowsFish
 * JP Morgan Chase
 * Livingstone College (USA)
 * Reliance Jio
@@ -36,6 +34,7 @@ This is Utkarsh Agnihotri 😃 I have experience in building scalable and effici
 ## ⚡ Technologies
 I can talk about
 - Technical Content Writing/Documentation.
+- Competitive Coding
 - Front-end Web Development(UI/UX) using **HTML, Javascript, CSS, Bootstrap**.
 - Solving Data Structures and Algorithm questions in **C++ and Python**.
 
