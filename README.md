@@ -3,9 +3,9 @@
 
 This is Utkarsh Agnihotri 😃 I have experience in building scalable and efficient Web Applications,  currently pursuing B.Tech CS from Invertis University, Bareilly 🏫.I am  a TechGeek, Writer and I like to code things. Good at Problem Solving using Data Structures and Algorithms and an active Open Source Contributor.
 
-* I have been an International Exchange Student, visited the United States 🇺🇸 for a Semester during Spring 2019
+* I have been an International Exchange Student, visited the United States for a Semester during Spring 2019
 * An avid Coder, working on gaining hands-on experience in the Software Engineering Field.
-* 4 Star(highest) at Codechef and an active participant in Coding Competitions, with some experience in Web Development.
+* Rated 1770(highest) at Codechef and an active participant in Coding Competitions, with some experience in Web Development.
 * C++, Python, English, and Hindi are the languages I speak, looking forward to being a part of a Developer Community where I can grow my career in the field of IT.
 
 
