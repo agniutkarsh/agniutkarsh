@@ -7,7 +7,7 @@ This is Utkarsh Agnihotri 😃 I have experience in building scalable and effici
 ## Hello World! 🤔
 
 💬 Open Source Enthusiast :octocat:\
-🎯 Portfolio Site: [agniutkarsh.com](https://www.agniutkarsh.com/)\
+🎯 Website: [agniutkarsh.com](https://www.agniutkarsh.com/)\
 🔭 Competitive Coder and Web-Developer.\
 💬 Actively contributing to Open Source\
 📫 E-mail: agni.utk27@gmail.com\
