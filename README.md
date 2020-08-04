@@ -22,7 +22,7 @@ This is Utkarsh Agnihotri 😃 I have experience in building scalable and effici
 <a>[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/918941970875)</a> <a>[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/agniutkarsh)</a> <a>[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/agniutkarsh)</a>  <a>[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/agniutkarsh)</a> <a>[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@agniutkarsh)</a> <a>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/agniutkarsh/)</a>
 
 
-## 👯 Internships
+## Internships
 * TATA STEEL
 * IIM Kashipur
 * AUTO EXPO 2020
@@ -37,7 +37,7 @@ This is Utkarsh Agnihotri 😃 I have experience in building scalable and effici
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-## ⚡ Technologies
+## Technologies
 I can talk about
 - Technical Content Writing/Documentation.
 - Competitive Coding
