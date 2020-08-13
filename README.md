@@ -39,7 +39,7 @@ This is Utkarsh Agnihotri 😃 I have experience in building scalable and effici
 ## Technologies
 I can talk about
 - Technical Content Writing/Documentation.
-- Competitive Coding [Codechef] (https://www.codechef.com/users/agniutkarsh)\
+- Competitive Coding [Codechef](https://www.codechef.com/users/agniutkarsh)\
 - Front-end Web Development(UI/UX) using **HTML, Javascript, CSS, Bootstrap**.
 - Solving Data Structures and Algorithm questions in **C++ and Python**.
 
