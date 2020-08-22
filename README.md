@@ -39,6 +39,22 @@ This is Utkarsh Agnihotri 😃 I have experience in building scalable and effici
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
+<a href=https://github.com/fbdevelopercircles>
+   <img src=https://img.shields.io/badge/FBDeveloperCircles-Contributor-brightgreen>
+</a>
+<a href=https://github.com/microsoft>
+   <img src=https://img.shields.io/badge/Microsoft-Contributor-blue>
+</a>
+<a href=https://github.com/romefrontend>
+   <img src=https://img.shields.io/badge/Rome-Contributor-orange>
+</a>
+<a href=https://github.com/google>
+   <img src=https://img.shields.io/badge/Google-Contributor-brightgreen>
+</a>
+<a href=https://github.com/facebook>
+   <img src=https://img.shields.io/badge/Facebook-Contributor-blue>
+</a>
+
 ## Technologies
 I can talk about
 - Technical Content Writing/Documentation.
