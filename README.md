@@ -22,7 +22,7 @@ This is Utkarsh Agnihotri 😃 I have experience in building scalable and effici
 
 ## Website Preview
 <p align="center"> 
-    <a href="https://agniutkarsh.com" target="_blank"><img src="captured (2).gif">
+    <a href="https://agniutkarsh.com" target="_blank"><img src="https://drive.google.com/file/d/1p6sCYsvO-ySPLuvtQs6BA4bAyCyT0Ol5/view?usp=sharing">
   </a>
 </p>
 
