@@ -5,7 +5,7 @@ This is Utkarsh Agnihotri 😃 I have experience in building scalable and effici
 
 * I have been an International Exchange Student, visited the United States for a Semester during Spring 2019.
 * An avid Coder, working on gaining hands-on experience in the Software Engineering Field.
-* Rated 1789 (highest) at Codechef and an active participant in Coding Competitions, with some experience in Web Development.
+* Rated 1874 (highest 4 Star) at Codechef and an active participant in Coding Competitions, with some experience in Web Development.
 * C++, Python, English and Hindi are the languages I speak, looking forward to being a part of a Developer Community where I can grow my career in the field of IT.
 
 
