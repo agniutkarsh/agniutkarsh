@@ -1,5 +1,5 @@
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="480px" />
-<h2> 𝐇𝐞y 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 This is Utkarsh Agnihotri 😃 I have experience in building scalable and efficient Web Applications, currently pursuing B.Tech CS from Invertis University, Bareilly .I am  a TechGeek, Writer and I like to code things. Good at Problem Solving using Data Structures and Algorithms and an active Open Source Contributor.
 
