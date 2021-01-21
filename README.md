@@ -56,14 +56,14 @@ This is Utkarsh Agnihotri 😃 I have experience in building scalable and effici
 </a>
 
 ## Achievements
-* 2020 Facebook Hacker Cup - Global Rank 971
-* 2020 TCS CodeVita - All India Rank 135
-* 2020 Credit Suisse - Global Coding Challenge - Global Rank 229
-* 2020 CodeChef August Long Challenge - Global Rank 30
-* Contributed to Facebook Open Source Immersion Program 2020
-* Contributed to Hacktoberfest 2020 and organised AUTO EXPO 2020
-* Won the vBooth event at the American Express CodeStreet’20 Hackathon
-* Rated 1874 (highest 4 Star) at Codechef and an active participant in Coding Competitions, with some experience in Web Development.
+* 2020 Facebook Hacker Cup - <b>Global Rank 971</b>
+* 2020 TCS CodeVita - <b>All India Rank 135</b>
+* 2020 Credit Suisse - Global Coding Challenge - <b>Global Rank 229</b>
+* 2020 CodeChef August Long Challenge - <b>Global Rank 30</b>
+* Contributed to <b>Facebook Open Source Immersion Program 2020, `I have a Tshirt to show off the same! XD`
+* Contributed to `Hacktoberfest 2020` and organised AUTO EXPO 2020, 
+* Won the `vBooth` event at the <b>American Express CodeStreet’20 Hackathon</b>
+* Rated `1874` (highest 4 Star) at Codechef and an active participant in Coding Competitions.
 
 
 ## Technologies
