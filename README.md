@@ -1,12 +1,11 @@
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="480px" />
 <h2> Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-This is Utkarsh Agnihotri 😃 I have experience in building scalable and efficient Web Applications, currently pursuing B.Tech CS from Invertis University, Bareilly .I am  a TechGeek, Writer and I like to code things. Good at Problem Solving using Data Structures and Algorithms and an active Open Source Contributor.
+This is Utkarsh Agnihotri 😃 I have experience in building scalable and efficient Web Applications, currently pursuing B.Tech CS from Invertis University, Bareilly.A TechGeek, Writer with a knack to code things up. Good at Problem Solving using Data Structures and Algorithms and an active Open Source Contributor.
 
-* I have been an International Exchange Student, visited the United States for a Semester during Spring 2019.
+* I have been an International Exchange Student, visited the <b>United States</b> for a Semester during Spring 2019.
 * An avid Coder, working on gaining hands-on experience in the Software Engineering Field.
-* Rated 1874 (highest 4 Star) at Codechef and an active participant in Coding Competitions, with some experience in Web Development.
-* C++, Python, English and Hindi are the languages I speak, looking forward to being a part of a Developer Community where I can grow my career in the field of IT.
+* C++, Python, English and Hindi are the languages I speak.
 
 
 ## Hello World! 🤔
@@ -55,6 +54,17 @@ This is Utkarsh Agnihotri 😃 I have experience in building scalable and effici
 <a href=https://github.com/facebook>
    <img src=https://img.shields.io/badge/Facebook-Contributor-blue>
 </a>
+
+## Achievements
+* 2020 Facebook Hacker Cup - Global Rank 971
+* 2020 TCS CodeVita - All India Rank 135
+* 2020 Credit Suisse - Global Coding Challenge - Global Rank 229
+* 2020 CodeChef August Long Challenge - Global Rank 30
+* Contributed to Facebook Open Source Immersion Program 2020
+* Contributed to Hacktoberfest 2020 and organised AUTO EXPO 2020
+* Won the vBooth event at the American Express CodeStreet’20 Hackathon
+* Rated 1874 (highest 4 Star) at Codechef and an active participant in Coding Competitions, with some experience in Web Development.
+
 
 ## Technologies
 I can talk about
