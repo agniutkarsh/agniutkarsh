@@ -22,6 +22,7 @@ This is Utkarsh Agnihotri 😃 I have experience in building scalable and effici
 <a>[<img src="https://github.com/Zenix27/Zenix27/blob/master/captured%20(2).gif" width="1000px">](https://agniutkarsh.com)</a>
 
 ## Internships
+* Accolite
 * TATA STEEL
 * IIM Kashipur
 * AUTO EXPO 2020
