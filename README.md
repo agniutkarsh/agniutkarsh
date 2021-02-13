@@ -72,7 +72,7 @@ I can talk about
 
 - Competitive Coding: [Codechef](https://www.codechef.com/users/agniutkarsh)
 - Front-end Web Development(UI/UX) using **HTML, Javascript, CSS, Bootstrap**.
-- Backend-end Web API Development() using **HTML, Javascript, CSS, Bootstrap**.
+- Backend-end Web API Development using **Java SpringBoot**.
 - Solving Data Structures and Algorithm questions in **C++**.
 - Technical Content Writing/Documentation.
 
