@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="480px" />
 <h2> Hey there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-This is Utkarsh Agnihotri 😃 Incoming SDE @ Baker Hughes. I have experience in building scalable and efficient Web Applications, currently pursuing B.Tech CS from Invertis University, Bareilly.A TechGeek, Writer with a knack to code things up. Good at Problem Solving using Data Structures and Algorithms and an active Open Source Contributor. The journey from O(n²) to O(nlogn) is difficult but not impossible. Believe it!
+This is Utkarsh Agnihotri 😃 SDE @ Baker Hughes. I have experience in building scalable and efficient Web Applications, currently pursuing B.Tech CS from Invertis University, Bareilly.A TechGeek, Writer with a knack to code things up. Good at Problem Solving using Data Structures and Algorithms and an active Open Source Contributor. The journey from O(n²) to O(nlogn) is difficult but not impossible. Believe it!
 
 * I have been an International Exchange Student, visited the <b>United States</b> for a Semester during Spring 2019.
 * An avid Coder, working on gaining hands-on experience in the Software Engineering Field.
